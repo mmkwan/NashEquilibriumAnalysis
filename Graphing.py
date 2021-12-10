@@ -1,3 +1,5 @@
+#Code based on code from CS165 at UCI
+
 import pandas as pd
 import numpy as np
 from math import log2, e
